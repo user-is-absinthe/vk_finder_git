@@ -1,7 +1,6 @@
 from datetime import datetime
 from random import randint
 from time import time
-from sys import exit
 
 from vk import Session, API
 
@@ -41,7 +40,7 @@ def to_csv(info):
         # file.write('\n')
 
     if counter == 0:
-        headr = 'Number;ID;Try;Time\n'
+        headr = 'Number;ID;Try;Time;Elapsed time\n'
         file.write(headr)
         date1 = datetime.now().strftime("%B %d %Y, %H:%M:%S")
         file.write(date1)
@@ -74,9 +73,7 @@ def user_info(user_id, vk_api):
     pass
 
 
-def can_i_do_this(iteration):
-
-    # dict_of_methods = []
+def can_i_do_this(seconds):
     api = create_session(token=token)
     global counter
     counter = 0
@@ -94,28 +91,31 @@ def can_i_do_this(iteration):
                 break
             except:
                 pass
-        to_log('{} request for vk.com/id{} complete. Try {}. Time {}.'.format(
+        to_log('{} request for vk.com/id{} complete. Try {}. Time {}. Elapsed time {}.'.format(
             counter,
             user_id,
             mini_counter,
-            end_time - start_time
+            end_time - start_time,
+            time() - start_program_time
         ))
-        to_csv('{};{};{};{}'.format(
+        to_csv('{};{};{};{};{}'.format(
             counter,
             user_id,
             mini_counter,
-            end_time - start_time
+            end_time - start_time,
+            time() - start_program_time
         ))
 
-        if counter == iteration:
+        print('Request n{} for vk.com/id{} complete. Try {}. Time {}. Elapsed time {}.'.format(
+            counter,
+            user_id,
+            mini_counter,
+            end_time - start_time,
+            time() - start_program_time
+        ))
+
+        if seconds <= time() - start_program_time:
             break
-
-        print('Request n{} for vk.com/id{} complete. Try {}. Time {}.'.format(
-            counter,
-            user_id,
-            mini_counter,
-            end_time - start_time
-        ))
 
     pass
 
@@ -123,7 +123,7 @@ def can_i_do_this(iteration):
 if __name__ == '__main__':
     log = 'log1'
     token = 'tkn'
-    iteration = 200
+    seconds = 20
 
     # TODO: не пишет хедр
 
@@ -139,4 +139,5 @@ if __name__ == '__main__':
 
     log_file_txt = log + '.txt'
     log_file_csv = log + '.csv'
-    can_i_do_this(iteration)
+    start_program_time = time()
+    can_i_do_this(seconds)
