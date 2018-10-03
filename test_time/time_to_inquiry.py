@@ -19,7 +19,7 @@ def to_log(info):
         file = open(log_file_txt, 'w')
         # file.write('Start here.\n{}\n\n'.format(datetime.now().strftime("%B %d %Y, %H:%M:%S")))
 
-    if counter == 0:
+    if counter == 1:
         to_write = 'Start here.\n{}\n\n'.format(datetime.now().strftime("%B %d %Y, %H:%M:%S"))
         file.write(to_write)
 
@@ -40,7 +40,7 @@ def to_csv(info):
         # file.write(datetime.now().strftime("%B %d %Y, %H:%M:%S"))
         # file.write('\n')
 
-    if counter == 0:
+    if counter == 1:
         headr = 'Number;ID;Try;Time\n'
         file.write(headr)
         date1 = datetime.now().strftime("%B %d %Y, %H:%M:%S")
@@ -107,15 +107,20 @@ def can_i_do_this(iteration):
             end_time - start_time
         ))
 
-        if counter == iteration:
-            break
-
         print('Request n{} for vk.com/id{} complete. Try {}. Time {}.'.format(
             counter,
             user_id,
             mini_counter,
             end_time - start_time
         ))
+
+        if counter == iteration:
+            date1 = datetime.now().strftime("%B %d %Y, %H:%M:%S")
+            write = 'Now, it`s the end.\n{}'.format(date1)
+            to_log(write)
+            to_csv(write)
+            print('End. {}'.format(date1))
+            break
 
     pass
 
@@ -124,8 +129,6 @@ if __name__ == '__main__':
     log = 'log1'
     token = 'tkn'
     iteration = 200
-
-    # TODO: не пишет хедр
 
     '''
     https://vk.com/id1
