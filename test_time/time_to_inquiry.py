@@ -115,20 +115,21 @@ def can_i_do_this(iteration):
         ))
 
         if counter == iteration:
+            time_now = time()
             date1 = datetime.now().strftime("%B %d %Y, %H:%M:%S")
-            write = 'Now, it`s the end.\n{}'.format(date1)
+            write = 'Now, it`s the end. Elapsed time {}.\n{}'.format(time_now - start_program_time, date1)
             to_log(write)
             to_csv(write)
-            print('End. {}'.format(date1))
+            print('End. Elapsed time {}.\n {}'.format(time_now - start_program_time, date1))
             break
 
     pass
 
 
 if __name__ == '__main__':
-    log = 'log1'
-    token = 'tkn'
-    iteration = 200
+    log = 'log_1000iter'
+    token = '1cc8e1444fd1bb6858af1a52c88b34543ab64533e357f146a351dace10154a15e7df18557c041a366c149'
+    iteration = 1000
 
     '''
     https://vk.com/id1
@@ -140,6 +141,7 @@ if __name__ == '__main__':
         print('Check token.')
         exit(1)
 
+    start_program_time = time()
     log_file_txt = log + '.txt'
     log_file_csv = log + '.csv'
     can_i_do_this(iteration)
