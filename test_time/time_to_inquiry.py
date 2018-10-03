@@ -128,7 +128,7 @@ def can_i_do_this(iteration):
 
 if __name__ == '__main__':
     log = 'log_1000iter'
-    token = '1cc8e1444fd1bb6858af1a52c88b34543ab64533e357f146a351dace10154a15e7df18557c041a366c149'
+    token = 'tkn'
     iteration = 1000
 
     '''
