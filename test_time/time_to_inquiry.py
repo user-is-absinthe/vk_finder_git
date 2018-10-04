@@ -17,14 +17,12 @@ def to_log(info):
         file = open(log_file_txt, 'a')
     except FileNotFoundError:
         file = open(log_file_txt, 'w')
-        # file.write('Start here.\n{}\n\n'.format(datetime.now().strftime("%B %d %Y, %H:%M:%S")))
 
     if counter == 1:
         to_write = 'Start here.\n{}\n\n'.format(datetime.now().strftime("%B %d %Y, %H:%M:%S"))
         file.write(to_write)
 
     file.write('\n')
-    # file.write(datetime.now().strftime("%B %d %Y, %H:%M:%S"))
     file.write('\t')
     file.write(info)
     file.write('\n')
