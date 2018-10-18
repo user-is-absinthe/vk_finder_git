@@ -39,7 +39,7 @@ def to_csv(info):
         # file.write('\n')
 
     if counter == 1:
-        headr = 'Number;ID;Try;Time\n'
+        headr = 'Number;ID;Method;Try;Time\n'
         file.write(headr)
         date1 = datetime.now().strftime("%B %d %Y, %H:%M:%S")
         file.write(date1)
@@ -56,20 +56,39 @@ def user_info(user_id, vk_api):
         fields='first_name, last_name, is_closed, can_access_closed, deactivated',
         v=5.89
     )
+    return user_information
 
-    # user_first_name = user_information[0]['first_name']
-    # user_last_name = user_information[0]['last_name']
 
-    # try:
-    #     user_deactivated = user_information[0]['deactivated']
-    #     # user_dead = user_deactivated
-    # except KeyError:
-    #     # user_dead = 0
-    #     user_friends = vk_api.friends.get(user_id=user_id, v=5.89)
-    #
-    # # return (user_dead, user_first_name, user_last_name, user_sex, user_friends)
-    # return (user_first_name, user_last_name, user_friends)
-    pass
+def mutual_friends(one_user_id, two_user_id, api):
+    information = api.friends.getMutual(
+        source_uid=one_user_id,
+        target_uid=two_user_id,
+        v=5.89
+    )
+    return information
+
+
+def get_wall(user_id, api):
+    post_on_wall = api.wall.get(
+        owner_id=user_id,
+        v=5.89
+    )
+    return post_on_wall
+
+
+def get_friends(user_id, api):
+    more_friends = api.friends.get(
+        user_id=user_id,
+        v=5.89
+    )
+    return more_friends
+
+
+def docs_get(api):
+    docs = api.docs.get(
+        v=5.89
+    )
+    return docs
 
 
 def can_i_do_this(iteration):
@@ -80,27 +99,50 @@ def can_i_do_this(iteration):
     counter = 0
     while True:
         counter += 1
-        user_id = randint(1, 999999)
+        bone = randint(0, len(methods_list))
+        # if methods_list[bone] == 'user.get':
+        # user_id = randint(1, 999999)
         start_time = time()
         # to_log('Start time {}')
         mini_counter = 0
+        user_id = randint(1, 999999)
+        user_id_2 = randint(1, 999999)
         while True:
             try:
                 mini_counter += 1
-                user_info(user_id=user_id, vk_api=api)
+
+                if methods_list[bone] == 'user.get':
+                    user_info(user_id=user_id, vk_api=api)
+                elif methods_list[bone] == 'get.mutual':
+                    # user_id_1 = randint(1, 999999)
+                    mutual_friends(
+                        one_user_id=user_id,
+                        two_user_id=user_id_2,
+                        api=api
+                    )
+                    user_id = str(user_id) + '/' + str(user_id_2)
+                elif methods_list[bone] == 'get.wall':
+                    get_wall(user_id=user_id, api=api)
+                elif methods_list[bone] == 'friends.get':
+                    get_friends(user_id=user_id, api=api)
+                elif methods_list[bone] == 'docs.get':
+                    docs_get(api=api)
+
                 end_time = time()
                 break
             except:
                 pass
-        to_log('{} request for vk.com/id{} complete. Try {}. Time {}.'.format(
+        to_log('{} request for vk.com/id{} with {} methods complete. Try {}. Time {}.'.format(
             counter,
             user_id,
+            methods_list[bone],
             mini_counter,
             end_time - start_time
         ))
-        to_csv('{};{};{};{}'.format(
+        to_csv('{};{};{};{};{}'.format(
             counter,
             user_id,
+            methods_list[bone],
             mini_counter,
             end_time - start_time
         ))
@@ -125,7 +167,7 @@ def can_i_do_this(iteration):
 
 
 if __name__ == '__main__':
-    log = 'log_1000iter'
+    log = 'log_dict_test'
     token = 'tkn'
     iteration = 1000
 
@@ -143,3 +185,10 @@ if __name__ == '__main__':
     log_file_txt = log + '.txt'
     log_file_csv = log + '.csv'
     can_i_do_this(iteration)
+    methods_list = [
+        'user.get',
+        'get.mutual',
+        'get.wall',
+        'friends.get',
+        'docs.get'
+    ]
