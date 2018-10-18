@@ -98,6 +98,7 @@ def can_i_do_this():
         now_choice = choice(all_methods)
         mini_iter = 0
         start_mini = time()
+        error_iter = 0
         while True:
             mini_iter += 1
             try:
@@ -117,7 +118,22 @@ def can_i_do_this():
                     photos_get_albums()
                     break
             except exceptions.VkAPIError:
+                error_iter += 1
                 # print('catch')
+                if error_iter == 100:
+                    time_error = time()
+                    print(datetime.now().strftime("%B %d %Y %H:%M:%S. ALARM!!! BANNED FROM VK!"))
+                    to_log(datetime.now().strftime("%B %d %Y %H:%M:%S. ALARM!!! BANNED FROM VK!"))
+                    ban_to_scv = 'BANNED,FROM,VK,!!!\n'
+                    write_to_csv = 'End at {}.,,,\nAll elapsed time: {}.,Max: {}.,Min: {}.,Avg: {}.'.format(
+                        datetime.now().strftime("%B %d %Y %H:%M:%S"),
+                        time_error - start_program_time,
+                        max(all_time),
+                        min(all_time),
+                        sum(all_time) / len(all_time)
+                    )
+                    to_csv(ban_to_scv + write_to_csv)
+                    exit(10)
                 pass
         end_mini = time()
         all_time.append(time() - start_mini)
@@ -158,7 +174,7 @@ def can_i_do_this():
 
 if __name__ == '__main__':
 
-    iterALL = 1000
+    iterALL = 15000
 
     tokenVK = 'tkn'
     userID_1 = 1  # S
