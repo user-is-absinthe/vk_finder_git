@@ -176,9 +176,9 @@ if __name__ == '__main__':
 
     iterALL = 15000
 
-    tokenVK = 'tkn'
-    userID_1 = 1  # S
-    userID_2 = 2  # Il
+    tokenVK = '123456789'
+    userID_1 = 123456789  # S
+    userID_2 = 123456789  # Il
     all_methods = [
         'users.get',
         'friends.getMutual',

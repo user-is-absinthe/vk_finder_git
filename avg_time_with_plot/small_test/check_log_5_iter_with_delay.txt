@@ -1,0 +1,802 @@
+	[October 20 2018, 00:13:16]	
+Start here.
+	October 20 2018, 00:13:16
+
+
+	[October 20 2018, 00:14:18]	
+Start here.
+	October 20 2018, 00:14:18
+
+
+	[October 20 2018, 00:15:46]	
+Start here.
+	October 20 2018, 00:15:46
+
+
+	[October 20 2018, 00:15:46]	Now 1 iteration, used wall.get method, success on the 1 try, spent 0.5495040416717529 second(-s).
+	[October 20 2018, 00:15:47]	Now 2 iteration, used wall.get method, success on the 1 try, spent 0.18051719665527344 second(-s).
+	[October 20 2018, 00:15:47]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.03393816947937012 second(-s).
+	[October 20 2018, 00:15:47]	Now 4 iteration, used friends.get method, success on the 1 try, spent 0.04488992691040039 second(-s).
+	[October 20 2018, 00:15:47]	Now 5 iteration, used users.get method, success on the 1 try, spent 0.0319361686706543 second(-s).
+	[October 20 2018, 00:15:47]	Now, it`s the end. Elapsed time 0.8995645046234131.
+October 20 2018, 00:15:47
+	[October 20 2018, 00:15:47]	
+Start here.
+	October 20 2018, 00:15:47
+
+
+	[October 20 2018, 00:15:47]	Now 1 iteration, used photos.getAlbums method, success on the 1 try, spent 0.04887127876281738 second(-s).
+	[October 20 2018, 00:15:47]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.04579877853393555 second(-s).
+	[October 20 2018, 00:15:47]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.045850276947021484 second(-s).
+	[October 20 2018, 00:15:47]	Now 4 iteration, used friends.get method, success on the 1 try, spent 0.04288768768310547 second(-s).
+	[October 20 2018, 00:15:49]	Now 5 iteration, used users.get method, success on the 62 try, spent 1.9450719356536865 second(-s).
+	[October 20 2018, 00:15:49]	Now, it`s the end. Elapsed time 3.0919201374053955.
+October 20 2018, 00:15:49
+	[October 20 2018, 00:15:49]	
+Start here.
+	October 20 2018, 00:15:49
+
+
+	[October 20 2018, 00:15:49]	Now 1 iteration, used friends.get method, success on the 1 try, spent 0.04185795783996582 second(-s).
+	[October 20 2018, 00:15:49]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.03689265251159668 second(-s).
+	[October 20 2018, 00:15:49]	Now 3 iteration, used wall.get method, success on the 1 try, spent 0.11768484115600586 second(-s).
+	[October 20 2018, 00:15:49]	Now 4 iteration, used photos.getAlbums method, success on the 1 try, spent 0.03296160697937012 second(-s).
+	[October 20 2018, 00:15:49]	Now 5 iteration, used photos.getAlbums method, success on the 1 try, spent 0.04287219047546387 second(-s).
+	[October 20 2018, 00:15:49]	Now, it`s the end. Elapsed time 3.428990125656128.
+October 20 2018, 00:15:49
+	[October 20 2018, 00:15:49]	
+Start here.
+	October 20 2018, 00:15:49
+
+
+	[October 20 2018, 00:15:49]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.08975839614868164 second(-s).
+	[October 20 2018, 00:15:49]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.0827794075012207 second(-s).
+	[October 20 2018, 00:15:50]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.08576726913452148 second(-s).
+	[October 20 2018, 00:15:52]	Now 4 iteration, used users.get method, success on the 29 try, spent 2.3923227787017822 second(-s).
+	[October 20 2018, 00:15:52]	Now 5 iteration, used friends.getMutual method, success on the 1 try, spent 0.08876514434814453 second(-s).
+	[October 20 2018, 00:15:52]	Now, it`s the end. Elapsed time 6.242237091064453.
+October 20 2018, 00:15:52
+	[October 20 2018, 00:15:52]	
+Start here.
+	October 20 2018, 00:15:52
+
+
+	[October 20 2018, 00:15:52]	Now 1 iteration, used users.get method, success on the 1 try, spent 0.08535027503967285 second(-s).
+	[October 20 2018, 00:15:52]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.09175491333007812 second(-s).
+	[October 20 2018, 00:15:52]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.08569669723510742 second(-s).
+	[October 20 2018, 00:15:52]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.08576416969299316 second(-s).
+	[October 20 2018, 00:15:53]	Now 5 iteration, used friends.get method, success on the 1 try, spent 0.08374738693237305 second(-s).
+	[October 20 2018, 00:15:53]	Now, it`s the end. Elapsed time 6.7484142780303955.
+October 20 2018, 00:15:53
+	[October 20 2018, 00:15:53]	
+Start here.
+	October 20 2018, 00:15:53
+
+
+	[October 20 2018, 00:15:53]	Now 1 iteration, used photos.getAlbums method, success on the 1 try, spent 0.0797567367553711 second(-s).
+	[October 20 2018, 00:15:53]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.08577084541320801 second(-s).
+	[October 20 2018, 00:15:55]	Now 3 iteration, used friends.getMutual method, success on the 26 try, spent 2.1593735218048096 second(-s).
+	[October 20 2018, 00:15:55]	Now 4 iteration, used friends.getMutual method, success on the 1 try, spent 0.08574271202087402 second(-s).
+	[October 20 2018, 00:15:55]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.21738910675048828 second(-s).
+	[October 20 2018, 00:15:55]	Now, it`s the end. Elapsed time 9.438403129577637.
+October 20 2018, 00:15:55
+	[October 20 2018, 00:15:55]	
+Start here.
+	October 20 2018, 00:15:55
+
+
+	[October 20 2018, 00:15:55]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.14162135124206543 second(-s).
+	[October 20 2018, 00:15:56]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.1336987018585205 second(-s).
+	[October 20 2018, 00:15:56]	Now 3 iteration, used wall.get method, success on the 1 try, spent 0.26928067207336426 second(-s).
+	[October 20 2018, 00:15:56]	Now 4 iteration, used friends.getMutual method, success on the 1 try, spent 0.13933801651000977 second(-s).
+	[October 20 2018, 00:15:56]	Now 5 iteration, used friends.getMutual method, success on the 1 try, spent 0.1406254768371582 second(-s).
+	[October 20 2018, 00:15:56]	Now, it`s the end. Elapsed time 10.335772037506104.
+October 20 2018, 00:15:56
+	[October 20 2018, 00:15:56]	
+Start here.
+	October 20 2018, 00:15:56
+
+
+	[October 20 2018, 00:15:56]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.13860297203063965 second(-s).
+	[October 20 2018, 00:15:58]	Now 2 iteration, used wall.get method, success on the 12 try, spent 1.659454107284546 second(-s).
+	[October 20 2018, 00:15:58]	Now 3 iteration, used friends.get method, success on the 1 try, spent 0.1376347541809082 second(-s).
+	[October 20 2018, 00:15:58]	Now 4 iteration, used photos.getAlbums method, success on the 1 try, spent 0.13241028785705566 second(-s).
+	[October 20 2018, 00:15:58]	Now 5 iteration, used friends.getMutual method, success on the 1 try, spent 0.14373493194580078 second(-s).
+	[October 20 2018, 00:15:58]	Now, it`s the end. Elapsed time 12.61226487159729.
+October 20 2018, 00:15:58
+	[October 20 2018, 00:15:58]	
+Start here.
+	October 20 2018, 00:15:58
+
+
+	[October 20 2018, 00:15:59]	Now 1 iteration, used users.get method, success on the 1 try, spent 0.13658475875854492 second(-s).
+	[October 20 2018, 00:15:59]	Now 2 iteration, used friends.get method, success on the 1 try, spent 0.13962769508361816 second(-s).
+	[October 20 2018, 00:15:59]	Now 3 iteration, used wall.get method, success on the 1 try, spent 0.238389253616333 second(-s).
+	[October 20 2018, 00:15:59]	Now 4 iteration, used wall.get method, success on the 1 try, spent 0.2333981990814209 second(-s).
+	[October 20 2018, 00:15:59]	Now 5 iteration, used photos.getAlbums method, success on the 1 try, spent 0.13962793350219727 second(-s).
+	[October 20 2018, 00:15:59]	Now, it`s the end. Elapsed time 13.573686122894287.
+October 20 2018, 00:15:59
+	[October 20 2018, 00:15:59]	
+Start here.
+	October 20 2018, 00:15:59
+
+
+	[October 20 2018, 00:16:01]	Now 1 iteration, used users.get method, success on the 9 try, spent 1.6343021392822266 second(-s).
+	[October 20 2018, 00:16:01]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.18492650985717773 second(-s).
+	[October 20 2018, 00:16:01]	Now 3 iteration, used friends.get method, success on the 1 try, spent 0.1875143051147461 second(-s).
+	[October 20 2018, 00:16:02]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.18907427787780762 second(-s).
+	[October 20 2018, 00:16:02]	Now 5 iteration, used friends.getMutual method, success on the 1 try, spent 0.18351292610168457 second(-s).
+	[October 20 2018, 00:16:02]	Now, it`s the end. Elapsed time 16.024786233901978.
+October 20 2018, 00:16:02
+	[October 20 2018, 00:16:02]	
+Start here.
+	October 20 2018, 00:16:02
+
+
+	[October 20 2018, 00:16:02]	Now 1 iteration, used wall.get method, success on the 1 try, spent 0.2901945114135742 second(-s).
+	[October 20 2018, 00:16:02]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.18949341773986816 second(-s).
+	[October 20 2018, 00:16:03]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.18650364875793457 second(-s).
+	[October 20 2018, 00:16:03]	Now 4 iteration, used friends.getMutual method, success on the 1 try, spent 0.24732279777526855 second(-s).
+	[October 20 2018, 00:16:04]	Now 5 iteration, used wall.get method, success on the 6 try, spent 1.227484941482544 second(-s).
+	[October 20 2018, 00:16:04]	Now, it`s the end. Elapsed time 18.237653732299805.
+October 20 2018, 00:16:04
+	[October 20 2018, 00:16:04]	
+Start here.
+	October 20 2018, 00:16:04
+
+
+	[October 20 2018, 00:16:04]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.187469482421875 second(-s).
+	[October 20 2018, 00:16:04]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.18949341773986816 second(-s).
+	[October 20 2018, 00:16:05]	Now 3 iteration, used wall.get method, success on the 1 try, spent 0.2971823215484619 second(-s).
+	[October 20 2018, 00:16:05]	Now 4 iteration, used wall.get method, success on the 1 try, spent 0.29491567611694336 second(-s).
+	[October 20 2018, 00:16:05]	Now 5 iteration, used photos.getAlbums method, success on the 1 try, spent 0.19059348106384277 second(-s).
+	[October 20 2018, 00:16:05]	Now, it`s the end. Elapsed time 19.47714900970459.
+October 20 2018, 00:16:05
+	[October 20 2018, 00:16:05]	
+Start here.
+	October 20 2018, 00:16:05
+
+
+	[October 20 2018, 00:16:06]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.2373824119567871 second(-s).
+	[October 20 2018, 00:16:06]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.23540067672729492 second(-s).
+	[October 20 2018, 00:16:06]	Now 3 iteration, used wall.get method, success on the 1 try, spent 0.39787864685058594 second(-s).
+	[October 20 2018, 00:16:07]	Now 4 iteration, used users.get method, success on the 3 try, spent 0.6941578388214111 second(-s).
+	[October 20 2018, 00:16:07]	Now 5 iteration, used users.get method, success on the 1 try, spent 0.2343425750732422 second(-s).
+	[October 20 2018, 00:16:07]	Now, it`s the end. Elapsed time 21.347129344940186.
+October 20 2018, 00:16:07
+	[October 20 2018, 00:16:07]	
+Start here.
+	October 20 2018, 00:16:07
+
+
+	[October 20 2018, 00:16:07]	Now 1 iteration, used users.get method, success on the 1 try, spent 0.23636794090270996 second(-s).
+	[October 20 2018, 00:16:08]	Now 2 iteration, used wall.get method, success on the 1 try, spent 0.35189056396484375 second(-s).
+	[October 20 2018, 00:16:08]	Now 3 iteration, used users.get method, success on the 1 try, spent 0.23639822006225586 second(-s).
+	[October 20 2018, 00:16:08]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.23634004592895508 second(-s).
+	[October 20 2018, 00:16:09]	Now 5 iteration, used users.get method, success on the 1 try, spent 0.23933172225952148 second(-s).
+	[October 20 2018, 00:16:09]	Now, it`s the end. Elapsed time 22.719300508499146.
+October 20 2018, 00:16:09
+	[October 20 2018, 00:16:09]	
+Start here.
+	October 20 2018, 00:16:09
+
+
+	[October 20 2018, 00:16:09]	Now 1 iteration, used photos.getAlbums method, success on the 1 try, spent 0.23636841773986816 second(-s).
+	[October 20 2018, 00:16:09]	Now 2 iteration, used wall.get method, success on the 1 try, spent 0.33307933807373047 second(-s).
+	[October 20 2018, 00:16:10]	Now 3 iteration, used wall.get method, success on the 3 try, spent 0.8806464672088623 second(-s).
+	[October 20 2018, 00:16:10]	Now 4 iteration, used friends.get method, success on the 1 try, spent 0.24135637283325195 second(-s).
+	[October 20 2018, 00:16:11]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.36100268363952637 second(-s).
+	[October 20 2018, 00:16:11]	Now, it`s the end. Elapsed time 24.843626260757446.
+October 20 2018, 00:16:11
+	[October 20 2018, 00:16:11]	
+Start here.
+	October 20 2018, 00:16:11
+
+
+	[October 20 2018, 00:16:11]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.2858390808105469 second(-s).
+	[October 20 2018, 00:16:11]	Now 2 iteration, used wall.get method, success on the 1 try, spent 0.4021637439727783 second(-s).
+	[October 20 2018, 00:16:12]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.2842400074005127 second(-s).
+	[October 20 2018, 00:16:12]	Now 4 iteration, used wall.get method, success on the 1 try, spent 0.3889603614807129 second(-s).
+	[October 20 2018, 00:16:12]	Now 5 iteration, used photos.getAlbums method, success on the 1 try, spent 0.2842118740081787 second(-s).
+	[October 20 2018, 00:16:12]	Now, it`s the end. Elapsed time 26.560933113098145.
+October 20 2018, 00:16:12
+	[October 20 2018, 00:16:12]	
+Start here.
+	October 20 2018, 00:16:12
+
+
+	[October 20 2018, 00:16:13]	Now 1 iteration, used users.get method, success on the 1 try, spent 0.28227996826171875 second(-s).
+	[October 20 2018, 00:16:13]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.28450679779052734 second(-s).
+	[October 20 2018, 00:16:13]	Now 3 iteration, used wall.get method, success on the 1 try, spent 0.38194775581359863 second(-s).
+	[October 20 2018, 00:16:14]	Now 4 iteration, used friends.getMutual method, success on the 1 try, spent 0.28923583030700684 second(-s).
+	[October 20 2018, 00:16:14]	Now 5 iteration, used friends.get method, success on the 1 try, spent 0.28621363639831543 second(-s).
+	[October 20 2018, 00:16:14]	Now, it`s the end. Elapsed time 28.15595054626465.
+October 20 2018, 00:16:14
+	[October 20 2018, 00:16:14]	
+Start here.
+	October 20 2018, 00:16:14
+
+
+	[October 20 2018, 00:16:14]	Now 1 iteration, used friends.get method, success on the 1 try, spent 0.2833113670349121 second(-s).
+	[October 20 2018, 00:16:15]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.29415059089660645 second(-s).
+	[October 20 2018, 00:16:15]	Now 3 iteration, used friends.get method, success on the 1 try, spent 0.2869112491607666 second(-s).
+	[October 20 2018, 00:16:15]	Now 4 iteration, used photos.getAlbums method, success on the 1 try, spent 0.2877047061920166 second(-s).
+	[October 20 2018, 00:16:16]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.37998390197753906 second(-s).
+	[October 20 2018, 00:16:16]	Now, it`s the end. Elapsed time 29.759908437728882.
+October 20 2018, 00:16:16
+	[October 20 2018, 00:16:16]	
+Start here.
+	October 20 2018, 00:16:16
+
+
+	[October 20 2018, 00:16:16]	Now 1 iteration, used wall.get method, success on the 1 try, spent 0.4368014335632324 second(-s).
+	[October 20 2018, 00:16:16]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.33893823623657227 second(-s).
+	[October 20 2018, 00:16:17]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.3430814743041992 second(-s).
+	[October 20 2018, 00:16:17]	Now 4 iteration, used friends.getMutual method, success on the 1 try, spent 0.34009385108947754 second(-s).
+	[October 20 2018, 00:16:17]	Now 5 iteration, used photos.getAlbums method, success on the 1 try, spent 0.33537960052490234 second(-s).
+	[October 20 2018, 00:16:17]	Now, it`s the end. Elapsed time 31.62707757949829.
+October 20 2018, 00:16:17
+	[October 20 2018, 00:16:17]	
+Start here.
+	October 20 2018, 00:16:17
+
+
+	[October 20 2018, 00:16:18]	Now 1 iteration, used friends.get method, success on the 1 try, spent 0.3361036777496338 second(-s).
+	[October 20 2018, 00:16:18]	Now 2 iteration, used friends.get method, success on the 1 try, spent 0.33530187606811523 second(-s).
+	[October 20 2018, 00:16:18]	Now 3 iteration, used users.get method, success on the 1 try, spent 0.3394429683685303 second(-s).
+	[October 20 2018, 00:16:19]	Now 4 iteration, used friends.get method, success on the 1 try, spent 0.3401062488555908 second(-s).
+	[October 20 2018, 00:16:19]	Now 5 iteration, used friends.getMutual method, success on the 1 try, spent 0.33609795570373535 second(-s).
+	[October 20 2018, 00:16:19]	Now, it`s the end. Elapsed time 33.39088296890259.
+October 20 2018, 00:16:19
+	[October 20 2018, 00:16:19]	
+Start here.
+	October 20 2018, 00:16:19
+
+
+	[October 20 2018, 00:16:20]	Now 1 iteration, used wall.get method, success on the 1 try, spent 0.4438290596008301 second(-s).
+	[October 20 2018, 00:16:20]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.3331887722015381 second(-s).
+	[October 20 2018, 00:16:20]	Now 3 iteration, used users.get method, success on the 1 try, spent 0.33457064628601074 second(-s).
+	[October 20 2018, 00:16:21]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.33812665939331055 second(-s).
+	[October 20 2018, 00:16:21]	Now 5 iteration, used users.get method, success on the 1 try, spent 0.333080530166626 second(-s).
+	[October 20 2018, 00:16:21]	Now, it`s the end. Elapsed time 35.242465019226074.
+October 20 2018, 00:16:21
+	[October 20 2018, 00:16:21]	
+Start here.
+	October 20 2018, 00:16:21
+
+
+	[October 20 2018, 00:16:22]	Now 1 iteration, used wall.get method, success on the 1 try, spent 0.5206079483032227 second(-s).
+	[October 20 2018, 00:16:22]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.38080334663391113 second(-s).
+	[October 20 2018, 00:16:22]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.3836705684661865 second(-s).
+	[October 20 2018, 00:16:23]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.3919546604156494 second(-s).
+	[October 20 2018, 00:16:23]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.5036830902099609 second(-s).
+	[October 20 2018, 00:16:23]	Now, it`s the end. Elapsed time 37.493021726608276.
+October 20 2018, 00:16:23
+	[October 20 2018, 00:16:23]	
+Start here.
+	October 20 2018, 00:16:23
+
+
+	[October 20 2018, 00:16:24]	Now 1 iteration, used photos.getAlbums method, success on the 1 try, spent 0.383059024810791 second(-s).
+	[October 20 2018, 00:16:24]	Now 2 iteration, used wall.get method, success on the 1 try, spent 0.4916868209838867 second(-s).
+	[October 20 2018, 00:16:25]	Now 3 iteration, used friends.get method, success on the 1 try, spent 0.4011979103088379 second(-s).
+	[October 20 2018, 00:16:25]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.38512349128723145 second(-s).
+	[October 20 2018, 00:16:25]	Now 5 iteration, used users.get method, success on the 1 try, spent 0.3903357982635498 second(-s).
+	[October 20 2018, 00:16:25]	Now, it`s the end. Elapsed time 39.61321306228638.
+October 20 2018, 00:16:25
+	[October 20 2018, 00:16:25]	
+Start here.
+	October 20 2018, 00:16:25
+
+
+	[October 20 2018, 00:16:26]	Now 1 iteration, used wall.get method, success on the 1 try, spent 0.4826786518096924 second(-s).
+	[October 20 2018, 00:16:26]	Now 2 iteration, used friends.get method, success on the 1 try, spent 0.38796114921569824 second(-s).
+	[October 20 2018, 00:16:27]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.3909313678741455 second(-s).
+	[October 20 2018, 00:16:27]	Now 4 iteration, used wall.get method, success on the 1 try, spent 0.48470211029052734 second(-s).
+	[October 20 2018, 00:16:28]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.5020122528076172 second(-s).
+	[October 20 2018, 00:16:28]	Now, it`s the end. Elapsed time 41.93234038352966.
+October 20 2018, 00:16:28
+	[October 20 2018, 00:16:28]	
+Start here.
+	October 20 2018, 00:16:28
+
+
+	[October 20 2018, 00:16:28]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.44942259788513184 second(-s).
+	[October 20 2018, 00:16:29]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.4734663963317871 second(-s).
+	[October 20 2018, 00:16:29]	Now 3 iteration, used friends.get method, success on the 1 try, spent 0.4478273391723633 second(-s).
+	[October 20 2018, 00:16:30]	Now 4 iteration, used friends.getMutual method, success on the 1 try, spent 0.43982410430908203 second(-s).
+	[October 20 2018, 00:16:30]	Now 5 iteration, used friends.getMutual method, success on the 1 try, spent 0.43337035179138184 second(-s).
+	[October 20 2018, 00:16:30]	Now, it`s the end. Elapsed time 44.250956296920776.
+October 20 2018, 00:16:30
+	[October 20 2018, 00:16:30]	
+Start here.
+	October 20 2018, 00:16:30
+
+
+	[October 20 2018, 00:16:31]	Now 1 iteration, used photos.getAlbums method, success on the 1 try, spent 0.43682003021240234 second(-s).
+	[October 20 2018, 00:16:31]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.44080376625061035 second(-s).
+	[October 20 2018, 00:16:31]	Now 3 iteration, used users.get method, success on the 1 try, spent 0.4388265609741211 second(-s).
+	[October 20 2018, 00:16:32]	Now 4 iteration, used photos.getAlbums method, success on the 1 try, spent 0.43663883209228516 second(-s).
+	[October 20 2018, 00:16:32]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.5355384349822998 second(-s).
+	[October 20 2018, 00:16:32]	Now, it`s the end. Elapsed time 46.60947132110596.
+October 20 2018, 00:16:32
+	[October 20 2018, 00:16:32]	
+Start here.
+	October 20 2018, 00:16:32
+
+
+	[October 20 2018, 00:16:33]	Now 1 iteration, used photos.getAlbums method, success on the 1 try, spent 0.43982648849487305 second(-s).
+	[October 20 2018, 00:16:33]	Now 2 iteration, used friends.get method, success on the 1 try, spent 0.43743467330932617 second(-s).
+	[October 20 2018, 00:16:34]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.44280028343200684 second(-s).
+	[October 20 2018, 00:16:34]	Now 4 iteration, used friends.get method, success on the 1 try, spent 0.4457972049713135 second(-s).
+	[October 20 2018, 00:16:35]	Now 5 iteration, used users.get method, success on the 1 try, spent 0.4388284683227539 second(-s).
+	[October 20 2018, 00:16:35]	Now, it`s the end. Elapsed time 48.88496375083923.
+October 20 2018, 00:16:35
+	[October 20 2018, 00:16:35]	
+Start here.
+	October 20 2018, 00:16:35
+
+
+	[October 20 2018, 00:16:35]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.48630452156066895 second(-s).
+	[October 20 2018, 00:16:36]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.487668514251709 second(-s).
+	[October 20 2018, 00:16:36]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.4863724708557129 second(-s).
+	[October 20 2018, 00:16:37]	Now 4 iteration, used friends.get method, success on the 1 try, spent 0.49440431594848633 second(-s).
+	[October 20 2018, 00:16:37]	Now 5 iteration, used users.get method, success on the 1 try, spent 0.4837062358856201 second(-s).
+	[October 20 2018, 00:16:37]	Now, it`s the end. Elapsed time 51.394229888916016.
+October 20 2018, 00:16:37
+	[October 20 2018, 00:16:37]	
+Start here.
+	October 20 2018, 00:16:37
+
+
+	[October 20 2018, 00:16:38]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.4886894226074219 second(-s).
+	[October 20 2018, 00:16:38]	Now 2 iteration, used friends.get method, success on the 1 try, spent 0.4844949245452881 second(-s).
+	[October 20 2018, 00:16:39]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.4877004623413086 second(-s).
+	[October 20 2018, 00:16:39]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.4857327938079834 second(-s).
+	[October 20 2018, 00:16:40]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.6058430671691895 second(-s).
+	[October 20 2018, 00:16:40]	Now, it`s the end. Elapsed time 54.01847577095032.
+October 20 2018, 00:16:40
+	[October 20 2018, 00:16:40]	
+Start here.
+	October 20 2018, 00:16:40
+
+
+	[October 20 2018, 00:16:40]	Now 1 iteration, used photos.getAlbums method, success on the 1 try, spent 0.486666202545166 second(-s).
+	[October 20 2018, 00:16:41]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.48435449600219727 second(-s).
+	[October 20 2018, 00:16:41]	Now 3 iteration, used users.get method, success on the 1 try, spent 0.4840376377105713 second(-s).
+	[October 20 2018, 00:16:42]	Now 4 iteration, used photos.getAlbums method, success on the 1 try, spent 0.4916567802429199 second(-s).
+	[October 20 2018, 00:16:42]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.6011478900909424 second(-s).
+	[October 20 2018, 00:16:42]	Now, it`s the end. Elapsed time 56.63616752624512.
+October 20 2018, 00:16:42
+	[October 20 2018, 00:16:42]	
+Start here.
+	October 20 2018, 00:16:42
+
+
+	[October 20 2018, 00:16:43]	Now 1 iteration, used friends.get method, success on the 1 try, spent 0.5411686897277832 second(-s).
+	[October 20 2018, 00:16:44]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.5435173511505127 second(-s).
+	[October 20 2018, 00:16:44]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.5367259979248047 second(-s).
+	[October 20 2018, 00:16:45]	Now 4 iteration, used photos.getAlbums method, success on the 1 try, spent 0.5419888496398926 second(-s).
+	[October 20 2018, 00:16:45]	Now 5 iteration, used friends.getMutual method, success on the 1 try, spent 0.5425195693969727 second(-s).
+	[October 20 2018, 00:16:45]	Now, it`s the end. Elapsed time 59.40899896621704.
+October 20 2018, 00:16:45
+	[October 20 2018, 00:16:45]	
+Start here.
+	October 20 2018, 00:16:45
+
+
+	[October 20 2018, 00:16:46]	Now 1 iteration, used friends.get method, success on the 1 try, spent 0.543534517288208 second(-s).
+	[October 20 2018, 00:16:46]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.5827717781066895 second(-s).
+	[October 20 2018, 00:16:47]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.5445387363433838 second(-s).
+	[October 20 2018, 00:16:58]	Now 4 iteration, used users.get method, success on the 1 try, spent 10.59485650062561 second(-s).
+	[October 20 2018, 00:16:58]	Now 5 iteration, used friends.getMutual method, success on the 1 try, spent 0.5359170436859131 second(-s).
+	[October 20 2018, 00:16:58]	Now, it`s the end. Elapsed time 72.28843259811401.
+October 20 2018, 00:16:58
+	[October 20 2018, 00:16:58]	
+Start here.
+	October 20 2018, 00:16:58
+
+
+	[October 20 2018, 00:16:59]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.5375576019287109 second(-s).
+	[October 20 2018, 00:16:59]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.5335922241210938 second(-s).
+	[October 20 2018, 00:17:00]	Now 3 iteration, used friends.get method, success on the 1 try, spent 0.5407259464263916 second(-s).
+	[October 20 2018, 00:17:00]	Now 4 iteration, used friends.get method, success on the 1 try, spent 0.53859543800354 second(-s).
+	[October 20 2018, 00:17:01]	Now 5 iteration, used users.get method, success on the 1 try, spent 0.5377311706542969 second(-s).
+	[October 20 2018, 00:17:01]	Now, it`s the end. Elapsed time 75.05045175552368.
+October 20 2018, 00:17:01
+	[October 20 2018, 00:17:01]	
+Start here.
+	October 20 2018, 00:17:01
+
+
+	[October 20 2018, 00:17:01]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.5938572883605957 second(-s).
+	[October 20 2018, 00:17:02]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.589392900466919 second(-s).
+	[October 20 2018, 00:17:03]	Now 3 iteration, used wall.get method, success on the 1 try, spent 0.6973938941955566 second(-s).
+	[October 20 2018, 00:17:04]	Now 4 iteration, used wall.get method, success on the 1 try, spent 0.7479672431945801 second(-s).
+	[October 20 2018, 00:17:04]	Now 5 iteration, used friends.get method, success on the 1 try, spent 0.5858187675476074 second(-s).
+	[October 20 2018, 00:17:04]	Now, it`s the end. Elapsed time 78.33773159980774.
+October 20 2018, 00:17:04
+	[October 20 2018, 00:17:04]	
+Start here.
+	October 20 2018, 00:17:04
+
+
+	[October 20 2018, 00:17:05]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.5870463848114014 second(-s).
+	[October 20 2018, 00:17:05]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.5794737339019775 second(-s).
+	[October 20 2018, 00:17:06]	Now 3 iteration, used users.get method, success on the 1 try, spent 0.5850510597229004 second(-s).
+	[October 20 2018, 00:17:07]	Now 4 iteration, used wall.get method, success on the 1 try, spent 0.695000410079956 second(-s).
+	[October 20 2018, 00:17:07]	Now 5 iteration, used friends.getMutual method, success on the 1 try, spent 0.5872807502746582 second(-s).
+	[October 20 2018, 00:17:07]	Now, it`s the end. Elapsed time 81.44152450561523.
+October 20 2018, 00:17:07
+	[October 20 2018, 00:17:07]	
+Start here.
+	October 20 2018, 00:17:07
+
+
+	[October 20 2018, 00:17:08]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.5898282527923584 second(-s).
+	[October 20 2018, 00:17:08]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.5911579132080078 second(-s).
+	[October 20 2018, 00:17:09]	Now 3 iteration, used wall.get method, success on the 1 try, spent 0.689051628112793 second(-s).
+	[October 20 2018, 00:17:10]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.5868330001831055 second(-s).
+	[October 20 2018, 00:17:10]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.6941139698028564 second(-s).
+	[October 20 2018, 00:17:10]	Now, it`s the end. Elapsed time 84.66246676445007.
+October 20 2018, 00:17:10
+	[October 20 2018, 00:17:10]	
+Start here.
+	October 20 2018, 00:17:10
+
+
+	[October 20 2018, 00:17:11]	Now 1 iteration, used wall.get method, success on the 1 try, spent 0.7379367351531982 second(-s).
+	[October 20 2018, 00:17:12]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.634324312210083 second(-s).
+	[October 20 2018, 00:17:13]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.6378910541534424 second(-s).
+	[October 20 2018, 00:17:13]	Now 4 iteration, used photos.getAlbums method, success on the 1 try, spent 0.6349656581878662 second(-s).
+	[October 20 2018, 00:17:14]	Now 5 iteration, used friends.get method, success on the 1 try, spent 0.6393251419067383 second(-s).
+	[October 20 2018, 00:17:14]	Now, it`s the end. Elapsed time 88.01571726799011.
+October 20 2018, 00:17:14
+	[October 20 2018, 00:17:14]	
+Start here.
+	October 20 2018, 00:17:14
+
+
+	[October 20 2018, 00:17:14]	Now 1 iteration, used friends.get method, success on the 1 try, spent 0.6446554660797119 second(-s).
+	[October 20 2018, 00:17:15]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.6381094455718994 second(-s).
+	[October 20 2018, 00:17:16]	Now 3 iteration, used users.get method, success on the 1 try, spent 0.6372954845428467 second(-s).
+	[October 20 2018, 00:17:17]	Now 4 iteration, used wall.get method, success on the 1 try, spent 0.7468764781951904 second(-s).
+	[October 20 2018, 00:17:17]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.7449817657470703 second(-s).
+	[October 20 2018, 00:17:17]	Now, it`s the end. Elapsed time 91.49941992759705.
+October 20 2018, 00:17:17
+	[October 20 2018, 00:17:17]	
+Start here.
+	October 20 2018, 00:17:17
+
+
+	[October 20 2018, 00:17:18]	Now 1 iteration, used users.get method, success on the 1 try, spent 0.6387383937835693 second(-s).
+	[October 20 2018, 00:17:19]	Now 2 iteration, used friends.get method, success on the 1 try, spent 0.6392927169799805 second(-s).
+	[October 20 2018, 00:17:19]	Now 3 iteration, used friends.get method, success on the 1 try, spent 0.638066291809082 second(-s).
+	[October 20 2018, 00:17:20]	Now 4 iteration, used wall.get method, success on the 1 try, spent 0.7719366550445557 second(-s).
+	[October 20 2018, 00:17:21]	Now 5 iteration, used photos.getAlbums method, success on the 1 try, spent 0.6391265392303467 second(-s).
+	[October 20 2018, 00:17:21]	Now, it`s the end. Elapsed time 94.89646220207214.
+October 20 2018, 00:17:21
+	[October 20 2018, 00:17:21]	
+Start here.
+	October 20 2018, 00:17:21
+
+
+	[October 20 2018, 00:17:22]	Now 1 iteration, used wall.get method, success on the 1 try, spent 0.8307540416717529 second(-s).
+	[October 20 2018, 00:17:22]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.6887309551239014 second(-s).
+	[October 20 2018, 00:17:23]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.6811943054199219 second(-s).
+	[October 20 2018, 00:17:24]	Now 4 iteration, used friends.get method, success on the 1 try, spent 0.696444034576416 second(-s).
+	[October 20 2018, 00:17:24]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.7853786945343018 second(-s).
+	[October 20 2018, 00:17:24]	Now, it`s the end. Elapsed time 98.64972949028015.
+October 20 2018, 00:17:24
+	[October 20 2018, 00:17:24]	
+Start here.
+	October 20 2018, 00:17:24
+
+
+	[October 20 2018, 00:17:25]	Now 1 iteration, used friends.get method, success on the 1 try, spent 0.6981580257415771 second(-s).
+	[October 20 2018, 00:17:26]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.6861717700958252 second(-s).
+	[October 20 2018, 00:17:27]	Now 3 iteration, used users.get method, success on the 1 try, spent 0.6865713596343994 second(-s).
+	[October 20 2018, 00:17:27]	Now 4 iteration, used photos.getAlbums method, success on the 1 try, spent 0.6882100105285645 second(-s).
+	[October 20 2018, 00:17:28]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.7990808486938477 second(-s).
+	[October 20 2018, 00:17:28]	Now, it`s the end. Elapsed time 102.27971506118774.
+October 20 2018, 00:17:28
+	[October 20 2018, 00:17:28]	
+Start here.
+	October 20 2018, 00:17:28
+
+
+	[October 20 2018, 00:17:29]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.6871335506439209 second(-s).
+	[October 20 2018, 00:17:29]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.6866531372070312 second(-s).
+	[October 20 2018, 00:17:30]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.7938787937164307 second(-s).
+	[October 20 2018, 00:17:31]	Now 4 iteration, used friends.getMutual method, success on the 1 try, spent 0.6876583099365234 second(-s).
+	[October 20 2018, 00:17:32]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.8148488998413086 second(-s).
+	[October 20 2018, 00:17:32]	Now, it`s the end. Elapsed time 106.02073168754578.
+October 20 2018, 00:17:32
+	[October 20 2018, 00:17:32]	
+Start here.
+	October 20 2018, 00:17:32
+
+
+	[October 20 2018, 00:17:33]	Now 1 iteration, used friends.get method, success on the 1 try, spent 0.7541539669036865 second(-s).
+	[October 20 2018, 00:17:33]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.735037088394165 second(-s).
+	[October 20 2018, 00:17:34]	Now 3 iteration, used users.get method, success on the 1 try, spent 0.7396121025085449 second(-s).
+	[October 20 2018, 00:17:35]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.73763108253479 second(-s).
+	[October 20 2018, 00:17:36]	Now 5 iteration, used friends.get method, success on the 1 try, spent 0.7353813648223877 second(-s).
+	[October 20 2018, 00:17:36]	Now, it`s the end. Elapsed time 109.79239559173584.
+October 20 2018, 00:17:36
+	[October 20 2018, 00:17:36]	
+Start here.
+	October 20 2018, 00:17:36
+
+
+	[October 20 2018, 00:17:36]	Now 1 iteration, used users.get method, success on the 1 try, spent 0.7370293140411377 second(-s).
+	[October 20 2018, 00:17:37]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.7429723739624023 second(-s).
+	[October 20 2018, 00:17:38]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.7361598014831543 second(-s).
+	[October 20 2018, 00:17:39]	Now 4 iteration, used photos.getAlbums method, success on the 1 try, spent 0.7338550090789795 second(-s).
+	[October 20 2018, 00:17:39]	Now 5 iteration, used users.get method, success on the 1 try, spent 0.753978967666626 second(-s).
+	[October 20 2018, 00:17:39]	Now, it`s the end. Elapsed time 113.57205986976624.
+October 20 2018, 00:17:39
+	[October 20 2018, 00:17:39]	
+Start here.
+	October 20 2018, 00:17:39
+
+
+	[October 20 2018, 00:17:40]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.7357559204101562 second(-s).
+	[October 20 2018, 00:17:41]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.7450101375579834 second(-s).
+	[October 20 2018, 00:17:42]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.7373361587524414 second(-s).
+	[October 20 2018, 00:17:42]	Now 4 iteration, used friends.getMutual method, success on the 1 try, spent 0.7491345405578613 second(-s).
+	[October 20 2018, 00:17:43]	Now 5 iteration, used photos.getAlbums method, success on the 1 try, spent 0.7346577644348145 second(-s).
+	[October 20 2018, 00:17:43]	Now, it`s the end. Elapsed time 117.3468542098999.
+October 20 2018, 00:17:43
+	[October 20 2018, 00:17:43]	
+Start here.
+	October 20 2018, 00:17:43
+
+
+	[October 20 2018, 00:17:44]	Now 1 iteration, used users.get method, success on the 1 try, spent 0.7912120819091797 second(-s).
+	[October 20 2018, 00:17:45]	Now 2 iteration, used friends.get method, success on the 1 try, spent 0.7918438911437988 second(-s).
+	[October 20 2018, 00:17:46]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.7848706245422363 second(-s).
+	[October 20 2018, 00:17:46]	Now 4 iteration, used friends.getMutual method, success on the 1 try, spent 0.7848753929138184 second(-s).
+	[October 20 2018, 00:17:47]	Now 5 iteration, used photos.getAlbums method, success on the 1 try, spent 0.7799026966094971 second(-s).
+	[October 20 2018, 00:17:47]	Now, it`s the end. Elapsed time 121.35448241233826.
+October 20 2018, 00:17:47
+	[October 20 2018, 00:17:47]	
+Start here.
+	October 20 2018, 00:17:47
+
+
+	[October 20 2018, 00:17:48]	Now 1 iteration, used friends.get method, success on the 1 try, spent 0.7813131809234619 second(-s).
+	[October 20 2018, 00:17:49]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.7819104194641113 second(-s).
+	[October 20 2018, 00:18:45]	
+Start here.
+	October 20 2018, 00:18:45
+
+
+	[October 20 2018, 00:18:45]	Now 1 iteration, used users.get method, success on the 1 try, spent 0.33809566497802734 second(-s).
+	[October 20 2018, 00:18:45]	Now 2 iteration, used friends.get method, success on the 1 try, spent 0.040892839431762695 second(-s).
+	[October 20 2018, 00:18:45]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.03790760040283203 second(-s).
+	[October 20 2018, 00:18:46]	Now 4 iteration, used friends.getMutual method, success on the 1 try, spent 0.039885520935058594 second(-s).
+	[October 20 2018, 00:18:46]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.13463044166564941 second(-s).
+	[October 20 2018, 00:18:46]	Now, it`s the end. Elapsed time 0.6502680778503418.
+October 20 2018, 00:18:46
+	[October 20 2018, 00:18:46]	
+Start here.
+	October 20 2018, 00:18:46
+
+
+	[October 20 2018, 00:18:46]	Now 1 iteration, used users.get method, success on the 1 try, spent 0.036896705627441406 second(-s).
+	[October 20 2018, 00:18:46]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.03299570083618164 second(-s).
+	[October 20 2018, 00:18:46]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.03888726234436035 second(-s).
+	[October 20 2018, 00:18:46]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.038866281509399414 second(-s).
+	[October 20 2018, 00:18:48]	Now 5 iteration, used photos.getAlbums method, success on the 69 try, spent 1.9768829345703125 second(-s).
+	[October 20 2018, 00:18:48]	Now, it`s the end. Elapsed time 2.845646619796753.
+October 20 2018, 00:18:48
+	[October 20 2018, 00:18:48]	
+Start here.
+	October 20 2018, 00:18:48
+
+
+	[October 20 2018, 00:18:48]	Now 1 iteration, used wall.get method, success on the 1 try, spent 0.11668682098388672 second(-s).
+	[October 20 2018, 00:18:48]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.04192066192626953 second(-s).
+	[October 20 2018, 00:18:48]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.03390812873840332 second(-s).
+	[October 20 2018, 00:18:48]	Now 4 iteration, used wall.get method, success on the 1 try, spent 0.1326439380645752 second(-s).
+	[October 20 2018, 00:18:48]	Now 5 iteration, used photos.getAlbums method, success on the 1 try, spent 0.030893325805664062 second(-s).
+	[October 20 2018, 00:18:48]	Now, it`s the end. Elapsed time 3.280630111694336.
+October 20 2018, 00:18:48
+	[October 20 2018, 00:18:48]	
+Start here.
+	October 20 2018, 00:18:48
+
+
+	[October 20 2018, 00:18:49]	Now 1 iteration, used wall.get method, success on the 1 try, spent 0.21143388748168945 second(-s).
+	[October 20 2018, 00:18:49]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.08976006507873535 second(-s).
+	[October 20 2018, 00:18:49]	Now 3 iteration, used friends.get method, success on the 1 try, spent 0.09175467491149902 second(-s).
+	[October 20 2018, 00:18:49]	
+Start here.
+	October 20 2018, 00:18:49
+
+
+	[October 20 2018, 00:18:51]	Now 1 iteration, used users.get method, success on the 49 try, spent 1.7999932765960693 second(-s).
+	[October 20 2018, 00:18:51]	Now 4 iteration, used friends.getMutual method, success on the 26 try, spent 2.1353185176849365 second(-s).
+	[October 20 2018, 00:18:51]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.03590893745422363 second(-s).
+	[October 20 2018, 00:18:51]	Now 5 iteration, used friends.getMutual method, success on the 1 try, spent 0.08178138732910156 second(-s).
+	[October 20 2018, 00:18:51]	Now, it`s the end. Elapsed time 5.974280118942261.
+October 20 2018, 00:18:51
+	[October 20 2018, 00:18:51]	
+Start here.
+	October 20 2018, 00:18:51
+
+
+	[October 20 2018, 00:18:51]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.10372185707092285 second(-s).
+	[October 20 2018, 00:18:51]	Now 3 iteration, used wall.get method, success on the 1 try, spent 0.18650126457214355 second(-s).
+	[October 20 2018, 00:18:51]	Now 4 iteration, used friends.getMutual method, success on the 1 try, spent 0.0857694149017334 second(-s).
+	[October 20 2018, 00:18:51]	Now 2 iteration, used friends.get method, success on the 1 try, spent 0.09275984764099121 second(-s).
+	[October 20 2018, 00:18:51]	Now 5 iteration, used users.get method, success on the 1 try, spent 0.03389596939086914 second(-s).
+	[October 20 2018, 00:18:51]	Now, it`s the end. Elapsed time 2.211893081665039.
+October 20 2018, 00:18:51
+	[October 20 2018, 00:18:51]	
+Start here.
+	October 20 2018, 00:18:51
+
+
+	[October 20 2018, 00:18:54]	Now 3 iteration, used photos.getAlbums method, success on the 33 try, spent 2.6733596324920654 second(-s).
+	[October 20 2018, 00:18:54]	Now 4 iteration, used photos.getAlbums method, success on the 1 try, spent 0.08978796005249023 second(-s).
+	[October 20 2018, 00:18:54]	Now 5 iteration, used users.get method, success on the 1 try, spent 0.09075760841369629 second(-s).
+	[October 20 2018, 00:18:54]	Now, it`s the end. Elapsed time 9.103428602218628.
+October 20 2018, 00:18:54
+	[October 20 2018, 00:18:54]	
+Start here.
+	October 20 2018, 00:18:54
+
+
+	[October 20 2018, 00:18:54]	Now 1 iteration, used friends.get method, success on the 1 try, spent 0.08779263496398926 second(-s).
+	[October 20 2018, 00:18:54]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.08677482604980469 second(-s).
+	[October 20 2018, 00:18:54]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.0857534408569336 second(-s).
+	[October 20 2018, 00:18:55]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.08876347541809082 second(-s).
+	[October 20 2018, 00:18:55]	Now 5 iteration, used photos.getAlbums method, success on the 1 try, spent 0.08579277992248535 second(-s).
+	[October 20 2018, 00:18:55]	Now, it`s the end. Elapsed time 9.614063262939453.
+October 20 2018, 00:18:55
+	[October 20 2018, 00:18:55]	
+Start here.
+	October 20 2018, 00:18:55
+
+
+	[October 20 2018, 00:18:55]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.13466262817382812 second(-s).
+	[October 20 2018, 00:18:57]	Now 2 iteration, used wall.get method, success on the 16 try, spent 2.1976253986358643 second(-s).
+	[October 20 2018, 00:18:57]	Now 3 iteration, used users.get method, success on the 1 try, spent 0.1356368064880371 second(-s).
+	[October 20 2018, 00:18:57]	Now 4 iteration, used wall.get method, success on the 1 try, spent 0.23936009407043457 second(-s).
+	[October 20 2018, 00:18:58]	Now 5 iteration, used friends.getMutual method, success on the 1 try, spent 0.13768529891967773 second(-s).
+	[October 20 2018, 00:18:58]	Now, it`s the end. Elapsed time 12.530472993850708.
+October 20 2018, 00:18:58
+	[October 20 2018, 00:18:58]	
+Start here.
+	October 20 2018, 00:18:58
+
+
+	[October 20 2018, 00:18:58]	Now 1 iteration, used photos.getAlbums method, success on the 1 try, spent 0.13161778450012207 second(-s).
+	[October 20 2018, 00:18:58]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.13766860961914062 second(-s).
+	[October 20 2018, 00:18:58]	Now 3 iteration, used friends.get method, success on the 1 try, spent 0.13327741622924805 second(-s).
+	[October 20 2018, 00:18:58]	Now 4 iteration, used friends.get method, success on the 1 try, spent 0.13132381439208984 second(-s).
+	[October 20 2018, 00:18:58]	Now 5 iteration, used friends.get method, success on the 1 try, spent 0.13167214393615723 second(-s).
+	[October 20 2018, 00:18:58]	Now, it`s the end. Elapsed time 13.266829252243042.
+October 20 2018, 00:18:58
+	[October 20 2018, 00:18:58]	
+Start here.
+	October 20 2018, 00:18:58
+
+
+	[October 20 2018, 00:19:00]	Now 1 iteration, used wall.get method, success on the 12 try, spent 1.6486189365386963 second(-s).
+	[October 20 2018, 00:19:00]	Now 2 iteration, used wall.get method, success on the 1 try, spent 0.2443397045135498 second(-s).
+	[October 20 2018, 00:19:00]	Now 3 iteration, used users.get method, success on the 1 try, spent 0.14362025260925293 second(-s).
+	[October 20 2018, 00:19:01]	Now 4 iteration, used friends.get method, success on the 1 try, spent 0.14366865158081055 second(-s).
+	[October 20 2018, 00:19:01]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.2504849433898926 second(-s).
+	[October 20 2018, 00:19:01]	Now, it`s the end. Elapsed time 15.778287410736084.
+October 20 2018, 00:19:01
+	[October 20 2018, 00:20:05]	
+Start here.
+	October 20 2018, 00:20:05
+
+
+	[October 20 2018, 00:20:05]	Now 1 iteration, used wall.get method, success on the 1 try, spent 0.433809757232666 second(-s).
+	[October 20 2018, 00:20:05]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.0378720760345459 second(-s).
+	[October 20 2018, 00:20:05]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.03888130187988281 second(-s).
+	[October 20 2018, 00:20:06]	Now 4 iteration, used friends.get method, success on the 1 try, spent 0.04202914237976074 second(-s).
+	[October 20 2018, 00:20:06]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.15169811248779297 second(-s).
+	[October 20 2018, 00:20:06]	Now, it`s the end. Elapsed time 0.7640664577484131.
+October 20 2018, 00:20:06
+	[October 20 2018, 00:20:06]	
+Start here.
+	October 20 2018, 00:20:06
+
+
+	[October 20 2018, 00:20:06]	Now 1 iteration, used friends.get method, success on the 1 try, spent 0.04888415336608887 second(-s).
+	[October 20 2018, 00:20:06]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.048868417739868164 second(-s).
+	[October 20 2018, 00:20:06]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.06682467460632324 second(-s).
+	[October 20 2018, 00:20:06]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.03888964653015137 second(-s).
+	[October 20 2018, 00:20:08]	Now 5 iteration, used users.get method, success on the 62 try, spent 1.908264398574829 second(-s).
+	[October 20 2018, 00:20:08]	Now, it`s the end. Elapsed time 2.9425742626190186.
+October 20 2018, 00:20:08
+	[October 20 2018, 00:20:08]	
+Start here.
+	October 20 2018, 00:20:08
+
+
+	[October 20 2018, 00:20:08]	Now 1 iteration, used users.get method, success on the 1 try, spent 0.035872697830200195 second(-s).
+	[October 20 2018, 00:20:08]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.035918474197387695 second(-s).
+	[October 20 2018, 00:20:08]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.03195333480834961 second(-s).
+	[October 20 2018, 00:20:08]	Now 4 iteration, used photos.getAlbums method, success on the 1 try, spent 0.03584599494934082 second(-s).
+	[October 20 2018, 00:20:08]	Now 5 iteration, used friends.get method, success on the 1 try, spent 0.03697657585144043 second(-s).
+	[October 20 2018, 00:20:08]	Now, it`s the end. Elapsed time 3.1880011558532715.
+October 20 2018, 00:20:08
+	[October 20 2018, 00:20:08]	
+Start here.
+	October 20 2018, 00:20:08
+
+
+	[October 20 2018, 00:20:08]	Now 1 iteration, used photos.getAlbums method, success on the 1 try, spent 0.08275246620178223 second(-s).
+	[October 20 2018, 00:20:08]	Now 2 iteration, used friends.getMutual method, success on the 1 try, spent 0.08374547958374023 second(-s).
+	[October 20 2018, 00:20:09]	Now 3 iteration, used wall.get method, success on the 1 try, spent 0.18949365615844727 second(-s).
+	[October 20 2018, 00:20:11]	Now 4 iteration, used wall.get method, success on the 29 try, spent 2.499114751815796 second(-s).
+	[October 20 2018, 00:20:11]	Now 5 iteration, used friends.get method, success on the 1 try, spent 0.0967097282409668 second(-s).
+	[October 20 2018, 00:20:11]	Now, it`s the end. Elapsed time 6.206686735153198.
+October 20 2018, 00:20:11
+	[October 20 2018, 00:20:11]	
+Start here.
+	October 20 2018, 00:20:11
+
+
+	[October 20 2018, 00:20:11]	Now 1 iteration, used photos.getAlbums method, success on the 1 try, spent 0.08775019645690918 second(-s).
+	[October 20 2018, 00:20:11]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.08474969863891602 second(-s).
+	[October 20 2018, 00:20:11]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.08875846862792969 second(-s).
+	[October 20 2018, 00:20:12]	Now 4 iteration, used wall.get method, success on the 1 try, spent 0.17815852165222168 second(-s).
+	[October 20 2018, 00:20:12]	Now 5 iteration, used users.get method, success on the 1 try, spent 0.08374834060668945 second(-s).
+	[October 20 2018, 00:20:12]	Now, it`s the end. Elapsed time 6.79771614074707.
+October 20 2018, 00:20:12
+	[October 20 2018, 00:20:12]	
+Start here.
+	October 20 2018, 00:20:12
+
+
+	[October 20 2018, 00:20:12]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.08875560760498047 second(-s).
+	[October 20 2018, 00:20:12]	Now 2 iteration, used photos.getAlbums method, success on the 1 try, spent 0.0877687931060791 second(-s).
+	[October 20 2018, 00:20:14]	Now 3 iteration, used users.get method, success on the 24 try, spent 1.9375507831573486 second(-s).
+	[October 20 2018, 00:20:14]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.08672904968261719 second(-s).
+	[October 20 2018, 00:20:14]	Now 5 iteration, used friends.getMutual method, success on the 1 try, spent 0.08780121803283691 second(-s).
+	[October 20 2018, 00:20:14]	Now, it`s the end. Elapsed time 9.157127618789673.
+October 20 2018, 00:20:14
+	[October 20 2018, 00:20:14]	
+Start here.
+	October 20 2018, 00:20:14
+
+
+	[October 20 2018, 00:20:14]	Now 1 iteration, used friends.getMutual method, success on the 1 try, spent 0.14159154891967773 second(-s).
+	[October 20 2018, 00:20:14]	Now 2 iteration, used users.get method, success on the 1 try, spent 0.1386573314666748 second(-s).
+	[October 20 2018, 00:20:15]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.13364386558532715 second(-s).
+	[October 20 2018, 00:20:15]	Now 4 iteration, used users.get method, success on the 1 try, spent 0.14065146446228027 second(-s).
+	[October 20 2018, 00:20:15]	Now 5 iteration, used wall.get method, success on the 1 try, spent 0.23826336860656738 second(-s).
+	[October 20 2018, 00:20:15]	Now, it`s the end. Elapsed time 10.022753953933716.
+October 20 2018, 00:20:15
+	[October 20 2018, 00:20:15]	
+Start here.
+	October 20 2018, 00:20:15
+
+
+	[October 20 2018, 00:20:15]	Now 1 iteration, used photos.getAlbums method, success on the 1 try, spent 0.13464069366455078 second(-s).
+	[October 20 2018, 00:20:17]	Now 2 iteration, used friends.getMutual method, success on the 14 try, spent 1.825270175933838 second(-s).
+	[October 20 2018, 00:20:17]	Now 3 iteration, used friends.getMutual method, success on the 1 try, spent 0.13762378692626953 second(-s).
+	[October 20 2018, 00:20:17]	Now 4 iteration, used wall.get method, success on the 1 try, spent 0.24837231636047363 second(-s).
+	[October 20 2018, 00:20:18]	Now 5 iteration, used users.get method, success on the 1 try, spent 0.14960050582885742 second(-s).
+	[October 20 2018, 00:20:18]	Now, it`s the end. Elapsed time 12.589095115661621.
+October 20 2018, 00:20:18
+	[October 20 2018, 00:20:18]	
+Start here.
+	October 20 2018, 00:20:18
+
+
+	[October 20 2018, 00:20:18]	Now 1 iteration, used photos.getAlbums method, success on the 1 try, spent 0.13564729690551758 second(-s).
+	[October 20 2018, 00:20:18]	Now 2 iteration, used wall.get method, success on the 1 try, spent 0.22937321662902832 second(-s).
+	[October 20 2018, 00:20:18]	Now 3 iteration, used photos.getAlbums method, success on the 1 try, spent 0.13857531547546387 second(-s).
+	[October 20 2018, 00:20:18]	Now 4 iteration, used friends.getMutual method, success on the 1 try, spent 0.145613431930542 second(-s).
+	[October 20 2018, 00:20:18]	Now 5 iteration, used photos.getAlbums method, success on the 1 try, spent 0.13058972358703613 second(-s).
+	[October 20 2018, 00:20:18]	Now, it`s the end. Elapsed time 13.440832138061523.
+October 20 2018, 00:20:18
