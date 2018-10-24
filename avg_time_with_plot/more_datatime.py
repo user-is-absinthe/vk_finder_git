@@ -172,7 +172,6 @@ def can_i_do_this(delay):
 
 
 if __name__ == '__main__':
-    #  CREATE FUCKING PROGRESS BAR!!!
     tokenVK = '123456798'
     userID_1 = 123456789  # S
     userID_2 = 123456789  # Il
