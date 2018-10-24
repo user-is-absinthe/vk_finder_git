@@ -118,9 +118,9 @@ def can_i_do_this(delay):
                     write_to_csv = 'End at {}.,,,,\nAll elapsed time: {}.,Max: {}.,Min: {}.,Avg: {}.,'.format(
                         datetime.now().strftime("%B %d %Y %H:%M:%S"),
                         time_error - start_program_time,
-                        max(all_time),
-                        min(all_time),
-                        sum(all_time) / len(all_time)
+                        max(all_time) - delaY,
+                        min(all_time) - delaY,
+                        sum(all_time) - delaY / len(all_time)
                     )
                     to_csv(ban_to_scv + write_to_csv)
                     exit(10)
@@ -135,6 +135,14 @@ def can_i_do_this(delay):
             end_mini - start_mini
         )
         to_log(info=write_to_text)
+        print('Now delay {} - {} (step {}) from {}, test n{}, iteration {}.'.format(
+            delay,
+            all_delays[-1],
+            steP,
+            len(all_delays),
+            all_delays.index(delaY),
+            ind
+        ))
         print('\t[\t{}\t]\t\t'.format(datetime.now().strftime("%B %d %Y, %H:%M:%S")) + write_to_text)
 
         write_to_csv = '{},{},{},{},{}'.format(
@@ -142,7 +150,7 @@ def can_i_do_this(delay):
             now_choice,
             delay,
             mini_iter,
-            end_mini - start_mini
+            end_mini - start_mini - delaY
         )
         to_csv(info=write_to_csv)
 
@@ -154,18 +162,18 @@ def can_i_do_this(delay):
             write_to_csv = 'End at {}.,,,\nAll elapsed time: {}.,Max: {}.,Min: {}.,Avg: {}.,'.format(
                 datetime.now().strftime("%B %d %Y %H:%M:%S"),
                 time_now - start_program_time,
-                max(all_time),
-                min(all_time),
-                sum(all_time) / len(all_time)
+                max(all_time) - delaY,
+                min(all_time) - delaY,
+                sum(all_time) / len(all_time) - delaY,
             )
             to_csv(info=write_to_csv)
             print('End. Elapsed time {}.\n {}'.format(time_now - start_program_time, date1))
-            return sum(all_time) / len(all_time)
+            return sum(all_time) - delaY / len(all_time)
 
 
 if __name__ == '__main__':
-    # TODO: CREATE FUCKING PROGRESS BAR!!!
-    tokenVK = '123456789'
+    #  CREATE FUCKING PROGRESS BAR!!!
+    tokenVK = '123456798'
     userID_1 = 123456789  # S
     userID_2 = 123456789  # Il
     all_methods = [
@@ -185,19 +193,24 @@ if __name__ == '__main__':
     iter_BIG = 3
     # iterALL = 1000
     iterALL = 100
-    log = 'check_log_{}_iter_with_delay'.format(iterALL)
+    steP = 0.01
+    # all_delays = [x * 0.05 for x in range(61)]
+    # all_delays = [x * 0.05 for x in range(3)]
+    # all_delays = [x * steP for x in range(46)]
+    # all_delays = all_delays[15:]
+    all_delays = [x * 0.01 for x in range(26)]
+    all_delays = all_delays[10:]
+
+    log = 'check_log_{}_{}_iter_with_delay_near_{}'.format(iterALL, iter_BIG, sum(all_delays) / len(all_delays))
     start_program_time = time()
     log_file_txt = log + '.txt'
     log_file_csv = log + '.csv'
-
-    all_delays = [x * 0.05 for x in range(61)]
-    # all_delays = [x * 0.05 for x in range(3)]
 
     delay_to_time = {}  # delay: avg_time
 
     for delaY in all_delays:
         pr_delay_to_time = []
-        for i in range(iter_BIG):
+        for ind in range(iter_BIG):
             avg_time = can_i_do_this(delay=delaY)
             pr_delay_to_time.append(avg_time)
         delay_to_time[delaY] = sum(pr_delay_to_time) / len(pr_delay_to_time)
@@ -209,9 +222,14 @@ if __name__ == '__main__':
         array_Y.append(delay_to_time[i])
 
     figure = plt.figure()
-    plt.plot(array_X, array_Y, color='red', marker='o', linestyle='dashed')
-    plt.title('График зависимости ответов от задержки.')
+    plt.plot(array_X, array_Y, color='red', linestyle='dashed')  # marker='o',
+    plt.title('График зависимости ответов от задержки в окрестности {}.\nОт {} до {} с шагом в {}.'.format(
+        sum(all_delays) / len(all_delays),
+        all_delays[0],
+        all_delays[-1],
+        steP
+    ))
     plt.xlabel('Время задержки, с.')
     plt.ylabel('Время ответа, с.')
     # plt.show()
-    figure.savefig('big{}_small{}_iter.png'.format(iter_BIG, iterALL))
+    figure.savefig('{}_{}_iter_with_delay_near_{}.png'.format(iterALL, iter_BIG, sum(all_delays) / len(all_delays)))
